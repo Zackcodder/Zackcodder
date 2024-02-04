@@ -6,9 +6,9 @@ Driven by a relentless pursuit of excellence, I thrive in dynamic environments. 
 Let's connect and explore how we can collaborate to drive innovation and create cutting-edge solutions
 I’m a freelance mobile software developer.
 I also took up Internship job as Full stack developer in Citi serve limited at Lagos State.
-- 🌱 I’m currently learning to be  full stack developer (Frontend and Backend Developemt)...
+- 🌱 I’m currently a flutter mobile application developer
 - 💞️ I’m looking to collaborate on project
-- 📫 You can reach me on +2349097883956 or through my mail at zachtech56@gmail.com...
+- 📫 You can reach me on +2349097883956 or through my mail at zachtech56@gmail.com or paulmiracle2014@gmail.com
 
 <!---
 Zackcodder/Zackcodder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
