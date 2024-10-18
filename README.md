@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Udah Paulzack @Zackcodder
-- 👀A seasoned flutter mobile developer with over 4 years of experience developing dynamic and customer mobile application or cross-platform devices (Android and iOS), web application, desktop application( Microsoft, Linux and iOS) using one code. I specialize in crafting and developing captivating cross-platform mobile applications for fintech, e-commerce, google map, ride sharing and many intriguing features for everyday uses, while making sure the customer is stratified with all services and functionality of the application.
+- 👀A seasoned flutter mobile developer with over 4 years of experience developing dynamic and customer mobile application or cross-platform devices (Android and iOS), web application, desktop application( Microsoft, Linux and iOS). I specialize in crafting and developing captivating cross-platform mobile applications for fintech, e-commerce, google map, ride sharing and many intriguing features for everyday uses, while making sure the customer is stratified with all services and functionality of the application.
 - 💞️ I’m looking to collaborate on projects which will add values to humanity and the world at large
 - 📫 You can reach me on +2349044088158 or through my mail at paulmiracle2014@gmail.com
 
